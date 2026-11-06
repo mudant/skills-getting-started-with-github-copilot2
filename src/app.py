@@ -38,7 +38,13 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    }
+    },
+    "Dance Class": {
+            "description": "Physical education and sports activities",
+            "schedule": "Tuesdays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
+            "max_participants": 20,
+            "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+        }
 }
 
 
